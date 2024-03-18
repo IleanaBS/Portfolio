@@ -1,0 +1,12 @@
+id, titulo, tipo, duracion, genero, año, estudio, nacionalidad, director, personajes, actores
+1, 27 bodas, Pelicula, 1.51, Romance, 2008, 20thCenturyFox, Estados Unidos, Anne Fletcher, Jane-Kevin-Tess-George-Casey, Katherine-James-Malin-Edward-Judy
+2, El descanso, Pelicula, 2.18, Romance, 2006, UniversalPictures, Estados Unidos, Nancy Meyers, Graham-Amanda-Iris-Miles-Jasper, Jude-Cameron-Kate-Jack-Rufus
+3, Una esposa de mentira, Pelicula, 1.57, Comedia, 2011, ColumbiaPictures, Estados Unidos, Dennis Dugan, Daniel-Katherine-Palmer-Maggie-Devlin, Adam-Jennifer-Brooklyn-Bailee-Nicole
+4, Y donde estan las rubias?, Pelicula, 1.49, Comedia, 2004, ColumbiaPictures, Estados Unidos, Keenen Ivory Wayans, Marcus-Kevin-Latrell-Karen-Heather, Marlon-Shawn-Terry-Busy-Jaime
+5, Rapidos y furiosos 10, Pelicula, 2.21, Accion, 2023, UniversalPictures, Estados Unidos, Louis Leterrier, Dominic-Dante-Aimes-AbuelitaToretto-Letty, Vin-Jason-Alan-Rita-Michelle
+6, Mision Imposible 7, Pelicula, 2.43, Accion, 2023, ParamountPictures, Estados Unidos, Christopher McQuarrie, Ethan-Ilsa-Grace-Alanna-Luther, Tom-Rebecca-Hayley-Vanessa-Ving
+7, Sonrie, Pelicula, 1.55, Terror, 2022, ParamountPictures, Estados Unidos, Parker Finn, Rose-Laura-Joel-Trevor-Jackson, Sosie-Caitlin-Kyle-Jessie-Kal
+8, El exorcista del Papa, Pelicula, 1.43, Terror, 2023, Sony, Estados Unidos, Julius Avery, FatherGabriel-Amy-Julia-Adella-FatherEsquibel, Russell-Laurel-Alex-Carrie-Daniel
+9, El equipo redentor, Pelicula, 1.38, Documental, 2022, Netflix, Estados Unidos, KobeBryant-LeBronJames-CarmeloAnthony-ChrisPaul-DwightHoward
+10, Hongos fantasticos, Pelicula, 1.20, Documental, 2019, Netflix, Estados Unidos, Louie Schwartzberg, PaulStamets-BrieLarson-MichaelPollan-AndrewWeil-TonyHead
+
